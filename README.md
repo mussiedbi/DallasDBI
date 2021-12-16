@@ -11,10 +11,10 @@ Security and access controls
 In order to minimize potential privacy and security issues, each user within the DallasDBI Organization will be assigned one of two roles defining access permissions within the Organization.
 
 1. **Member** - The default role. Members will have all of the following privileges:
-    - Clone and pull public repositories
+    - Clone and pull public and private repositories
 2. **Organization Owner** - Administrators. Owners will have all of the privileges granted to Members, and will additionally have the ability to:
     - Create public and private repositories
-    - Push to public and private repositories
+    - Write and push to public and private repositories
     - Change visibility of repositories (public vs. private)
     - Delete and transfer ownership of repositories
     - Grant Member access to specific repositories
@@ -23,7 +23,7 @@ In order to minimize potential privacy and security issues, each user within the
 
 For any given repository, Owners may assign Members to various predefined roles granting them additional permissions. These roles will generally be one of:
 
-1. **Read** - Read and clone repositories. Open and comment on issues and Pull Requests.
+1. **Read** - Read and clone repositories. Open and comment on issues and Pull Requests. This is the default role for all Members.
 2. **Write** - Same permissions as Read, plus the ability to write and push to repositories.
 3. **Admin** - Same permissions as Write, plus additional functionality pertaining to GitHub features such as Pull Requests, Issues, etc.
 
@@ -32,7 +32,7 @@ Getting Started
 
 ### Joining the Organization
 
-Once you have created an account, contact an Owner to receive an invitation to join the DallasDBI Organization
+Once you have created a GitHub account, contact an Owner to receive an invitation to join the DallasDBI Organization
 
 ### Creating Repositories
 
