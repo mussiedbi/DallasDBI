@@ -69,3 +69,9 @@ An alternative approach is to use a .gitignore like this:
     
 This will cause Git to ignore *all* files within a repo. You will then need to use `git commit -f [YOURNEWFILE.EXT]`, or the equivalent action in your Git GUI each time you want to track a new file. Changes to files that are already tracked by Git can still be committed without using the `-f` option.
 
+### Commit messages
+
+Commit messages should be concise and informative. A good rule of thumb is the [50/72 rule](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule), whereby the first line of the commit message is a short, 50 character summary of changes, optionally followed by any number of 72-character lines providing additional context.
+
+For more information, refer to [How to Write a Git Commit Message](https://cbea.ms/git-commit/) and [Effective Git Commits in Data Science](https://ericmjl.github.io/essays-on-data-science/workflow/effective-commit-messages/)
+
