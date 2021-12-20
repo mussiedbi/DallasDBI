@@ -1,7 +1,7 @@
 DBI Git/GitHub protocols
 ========================
 
-[DallasDBI](https://github.com/DallasDBI) is the official GitHub organization for the City of Dallas's Office of Data Analytics and Business Intelligence, or DBI for short. This Organization serve as a central hub for DBI staff members to collaborate with one another and to provide public transparency into their work. This repository houses documentation outlining the Organization's structure and governance, as well as guidelines for staff members intending to use GitHub for their work.
+[DallasDBI](https://github.com/DallasDBI) is the official GitHub organization for the City of Dallas's Office of Data Analytics and Business Intelligence, or DBI for short. This Organization serves as a central hub for DBI staff members to collaborate with one another and to provide public transparency into their work. This repository houses documentation outlining the Organization's structure and governance, as well as guidelines for staff members intending to use GitHub for their work.
 
 If you are a DBI staff member, please contact an Owner for an invitation to join the DallasDBI Organization.
 
@@ -73,5 +73,5 @@ This will cause Git to ignore *all* files within a repo. You will then need to u
 
 Commit messages should be concise and informative. A good rule of thumb is the [50/72 rule](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule), whereby the first line of the commit message is a short, 50 character summary of changes, optionally followed by any number of 72-character lines providing additional context.
 
-For more information, refer to [How to Write a Git Commit Message](https://cbea.ms/git-commit/) and [Effective Git Commits in Data Science](https://ericmjl.github.io/essays-on-data-science/workflow/effective-commit-messages/)
+For more guidance on writing commit messages, refer to [How to Write a Git Commit Message](https://cbea.ms/git-commit/) and [Effective Git Commits in Data Science](https://ericmjl.github.io/essays-on-data-science/workflow/effective-commit-messages/).
 
