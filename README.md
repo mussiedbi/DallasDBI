@@ -3,11 +3,9 @@ DBI Git/GitHub protocols
 
 [DallasDBI](https://github.com/DallasDBI) is the official GitHub organization for the City of Dallas's Office of Data Analytics and Business Intelligence, or DBI for short. This Organization serves as a central hub for DBI staff members to collaborate with one another and to provide public transparency into their work. This repository houses documentation outlining the Organization's structure and governance, as well as guidelines for staff members intending to use GitHub for their work.
 
-If you are a DBI staff member, please contact an Owner for an invitation to join the DallasDBI Organization.
-
-If you are new to Git or GitHub, refer to the [DBI Git Tutorial](https://github.com/DallasDBI/DBI_Git_Tutorial) for a brief introduction.
-
-If you are a member of the general public, please feel free to browse or clone any of our public repositories. You may also be interested in the [Open Data Portal](https://www.dallasopendata.com/), the City of Dallas's official portal for various kinds of municipal data.
+- If you are a DBI staff member, please contact an Owner for an invitation to join the DallasDBI Organization.
+- If you are new to Git or GitHub, refer to the [DBI Git Tutorial](https://github.com/DallasDBI/DBI_Git_Tutorial) for a brief introduction.
+- If you are a member of the general public, please feel free to browse or clone any of our public repositories. You may also be interested in the [Open Data Portal](https://www.dallasopendata.com/), the City of Dallas's official portal for various kinds of municipal data.
 
 Overview
 --------
